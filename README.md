@@ -1,2 +1,2 @@
 # Calculator.Javascrpit
-A fully functionable Calculator using javascript and HTML-CSS
+ Complete Usable  Calculator using javascript and HTML & CSS
